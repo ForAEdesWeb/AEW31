@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = '這個網站目前關閉進行維護中。<br />請之後再回來觀看。';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = '網站批發 - 白紋資訊';
+	public $sitename = '大全造漆工業股份有限公司';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -31,8 +31,8 @@ class JConfig {
 	public $offset = 'UTC';
 	public $mailonline = '1';
 	public $mailer = 'mail';
-	public $mailfrom = 'sense.katherine@gmail.com';
-	public $fromname = '網站批發 - 視覺觀';
+	public $mailfrom = 'tcp1.paint@gmail.com';
+	public $fromname = '大全造漆工業';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
 	public $smtpuser = '';
@@ -43,8 +43,8 @@ class JConfig {
 	public $caching = '0';
 	public $cache_handler = 'file';
 	public $cachetime = '15';
-	public $MetaDesc = '不可思議的網站設計, 手機, 電腦, 平板三個願望一次滿足, 畫面內容隨心所欲, 卻如此簡單迅速, 立即體驗這不可思議 的感覺吧！';
-	public $MetaKeys = '網站, 網站設計, 網站版型, 手機, 電腦, 平板, 多國語言, 網站管理介面, 網站前端, 網站後端, SEO, 搜尋引擎, 關鍵字, Responsive, 企業形象, 一頁式網站, One page, 活動官方網站, 形象首頁, 電子型錄網站, 購物車網站, 客製化網站, css, less, sass';
+	public $MetaDesc = '油漆, 造漆, 工業, 自行車';
+	public $MetaKeys = '油漆, 造漆, 工業, 自行車';
 	public $MetaTitle = '1';
 	public $MetaAuthor = '1';
 	public $MetaVersion = '0';
